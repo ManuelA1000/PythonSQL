@@ -2,3 +2,4 @@
 .idea
 anaconda_projects
 .env
+create_tables.ipynb
